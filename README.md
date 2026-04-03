@@ -16,7 +16,7 @@ It analyzes 300+ days of daily financial data (2023) across multiple business li
 * EBIT vs Break-even analysis
 * Profit margin trends & financial progression
 
-![Alt Text](path/to/image.png)
+![Alt Text]([path/to/image.png](https://github.com/combatantash/Financial-Analysis-PowerBI-Dashboard/blob/b15f69227123c6c88f61d3c97ddcdb9f834f712e/screenshots/Financial%20summary.png))
 
 ---
 
@@ -26,7 +26,7 @@ It analyzes 300+ days of daily financial data (2023) across multiple business li
 * Business line comparison
 * Monthly performance breakdown
 
-![Alt Text](path/to/image.png)
+![Alt Text]([path/to/image.png](https://github.com/combatantash/Financial-Analysis-PowerBI-Dashboard/blob/b15f69227123c6c88f61d3c97ddcdb9f834f712e/screenshots/Revenue.png))
 
 ---
 
@@ -36,7 +36,7 @@ It analyzes 300+ days of daily financial data (2023) across multiple business li
 * Filter by business line
 * Full metric visibility (Revenue, COGS, OPEX, Profit)
 
-![Alt Text](path/to/image.png)
+![Alt Text]([path/to/image.png](https://github.com/combatantash/Financial-Analysis-PowerBI-Dashboard/blob/b15f69227123c6c88f61d3c97ddcdb9f834f712e/screenshots/Data%20table.png))
 
 ---
 
@@ -49,7 +49,7 @@ It analyzes 300+ days of daily financial data (2023) across multiple business li
   * Sportswear
   * Nutrition & Food Supplements
 
-![Alt Text](path/to/image.png)
+![Alt Text]([path/to/image.png](https://github.com/combatantash/Financial-Analysis-PowerBI-Dashboard/blob/b15f69227123c6c88f61d3c97ddcdb9f834f712e/screenshots/dataset.png))
 
 
 ---
