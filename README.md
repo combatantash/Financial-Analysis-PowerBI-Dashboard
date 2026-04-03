@@ -6,6 +6,7 @@
 This project is a Financial Analysis Dashboard built in Power BI that provides end-to-end insights into a company’s financial performance.
 
 It analyzes 300+ days of daily financial data (2023) across multiple business lines and presents insights through interactive, interconnected dashboards.
+
 ---
 
 ## 🧩 Dashboard Sections
